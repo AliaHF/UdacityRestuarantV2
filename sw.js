@@ -28,7 +28,7 @@ self.addEventListener("install", function(event) {
         'img/9.jpg',
         'img/10.jpg',
         'img/icon.png',
-        'img/pink.png'
+        'img/pink.png',
         'data/restaurants.json'
     ])
     .catch(error => {
